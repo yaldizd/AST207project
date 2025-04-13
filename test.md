@@ -1,6 +1,6 @@
 test
 
-{% include_relative Notebook1.md %}
+{% include_relative notebooks/Notebook1.md %}
 
 
 blah blah
