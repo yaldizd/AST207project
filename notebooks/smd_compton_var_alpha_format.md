@@ -102,7 +102,7 @@ plt.grid(True)
 
 
     
-![png](smd_compton_var_alpha_format_files/smd_compton_var_alpha_format_2_0.png)
+![png](notebooks/smd_compton_var_alpha_format_files/smd_compton_var_alpha_format_2_0.png)
     
 
 
@@ -157,7 +157,7 @@ plt.show()
 
 
     
-![png](smd_compton_var_alpha_format_files/smd_compton_var_alpha_format_4_0.png)
+![png](notebooks/smd_compton_var_alpha_format_files/smd_compton_var_alpha_format_4_0.png)
     
 
 
@@ -193,7 +193,7 @@ plt.grid()
 
 
     
-![png](smd_compton_var_alpha_format_files/smd_compton_var_alpha_format_5_0.png)
+![png](notebooks/smd_compton_var_alpha_format_files/smd_compton_var_alpha_format_5_0.png)
     
 
 
