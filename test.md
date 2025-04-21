@@ -1,5 +1,4 @@
 test
 
-{% include_relative notebooks/smd_compton_var_alpha_format.md %}
+{% include_relative notebooks/notebook.md %}
 
-blah blah
