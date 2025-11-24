@@ -48,8 +48,8 @@ For an object smaller than $$ r_s $$, its escape velocity exceeds $$ c $$, formi
 <br>
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <a href="/index.html" style="text-decoration: none; font-weight: bold;">Back to Homepage</a>
-  <a href="/accretion_disk.html" style="text-decoration: none; font-weight: bold;">Next Page &#8594;</a>
+  <a href="/AST207project/index.html" style="text-decoration: none; font-weight: bold;">Back to Homepage</a>
+  <a href="/AST207project/accretion_disk.html" style="text-decoration: none; font-weight: bold;">Next Page &#8594;</a>
 </div>
 
 <br>
