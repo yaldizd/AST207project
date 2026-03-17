@@ -8,7 +8,7 @@ title: Inferrence Using Gravitational Waves
 On September 24, 2015, a century after Einstein's predictions of general relativity, at the Laser Inferometer Gravitational-Wave Observatory, gravitational waves were detected for the first time [5]. The waves were produced by a binary black hole merger, the first one ever observed.
 
 <figure style="text-align: center;">
-  <img src="/assets/css/ligo_merger.png" alt="Gravitational Wave Event Observed by LIGO" width="500"/>
+  <img src="/AST207project/assets/css/ligo_merger.png" alt="Gravitational Wave Event Observed by LIGO" width="500"/>
   <figcaption style="margin-top: 5px; font-style: italic;">Fig 3: Gravitational Wave Event Observed by LIGO</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ $$
 Where $$h$$ is the gravitational-wave strain amplitude. This differential length variation effects the phase difference between two light fields which then passes through a beam splitter and gets detected by a photodetector.
 
 <div style="text-align: center;">
-  <img src="/AST207project/assets/css/ligo_merger.png" alt="Gravitational Wave Event Observed by LIGO" width="500"/>
+  <img src="/AST207project/assets/css/ligo_setup.png" alt="Gravitational Wave Event Observed by LIGO" width="500"/>
   <figcaption style="margin-top: 5px; font-style: italic;">Fig 4: The LIGO Detector Setup</figcaption>
 </div>
 
